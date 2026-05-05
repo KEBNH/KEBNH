@@ -1,3 +1,16 @@
+<!--
+Estimado usuario que utiliza mi archivo README como base para crear el suyo:
+¡Me alegra mucho que te haya gustado! ¡Siéntete libre de usarlo!
+Solo te pido una cosa:
+Por favor, deja una estrella en mi archivo README. ¡Me alegraría mucho! :)
+------------------------------------------------------------------------
+Dear user using my README as a base to create your own:
+I'm so glad you liked it and feel free to use it!
+I just kindly ask for one thing:
+Please leave a star on my README, it will make my day :)
+-->
+
+<!--- Banner -->
 <p align="left"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
 # Hi there, I'm Kev - aka BOTk👋 
