@@ -21,22 +21,61 @@
 
 [![Spotify](https://spotify-now-playing-eosin-three.vercel.app/api/spotify)](https://open.spotify.com/user/31yf54imza2odew4u7qqjtmn3z5u)
 
+[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/ID_DE_TU_CANCION)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Tech Stack 🔮
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=ffffff)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+</div>
+
+
+
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat-square&logo=KaliLinux&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=HackTheBox)
+![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-000000?style=flat-square&logo=CyberDefenders)
 ![Discord](https://img.shields.io/badge/-Discord-5391FE?style=flat-square&logo=discord&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion)
 
 
-
-
-<br/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KEBNH&locale=en&mode=daily&theme=Dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KEBNH&theme=Dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
