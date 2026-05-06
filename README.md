@@ -12,21 +12,16 @@ Please leave a star on my README, it will make my day :)
 
 <!--- Banner -->
 <p align="center">
-  <img src="assets/fly.gif" width="700px" height="450px" alt="fly" />
+  <img src="assets/fly.gif" width="1000px" height="500px" alt="fly" />
 </p>
 
 </br> 
-<img src="assets/rose.gif" width=320 align="left">
+<img src="assets/chair.jpg" width=320 align="left">
 
 <div align="justify">
 
-</br>
-
 <!--- About me -->
-</br></br></br></br></br></br>
-
 ### $ whoami
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=1E3A8Abackground=F29FFF00&width=500&height=30&lines=Hello+visitor!+I'm+Kevin+Moreyra+%F0%9F%91%BD;Cybersecurity+Engineering+student;I+love+solving+forensic+mysteries+%F0%9F%94%90;I+love+Chihuahuas+%F0%9F%90%B6)](https://git.io/typing-svg)
 
 I am a `Cybersecurity Engineering student` at UPC, deeply interested in `forensics`, the `purple team`, and `designing secure cloud architectures`.  
@@ -39,6 +34,7 @@ Outside of cybersecurity, I love video games—especially shooters—and 🐶 I 
 </br>
 
 --- 
+
 <!--- My stacks -->
 <div align="center">
 
@@ -109,6 +105,10 @@ And outside of technology, I’m a huge fan of video games(especially shooters) 
   <img src="https://streak-stats.demolab.com?user=KEBNH&locale=en&mode=daily&theme=Dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=KEBNH&theme=Dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+---
+
+</br>
 
 <!-- Pacman -->
 <picture>
