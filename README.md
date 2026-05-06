@@ -81,8 +81,6 @@ Outside of cybersecurity, I love video games—especially shooters—and 🐶 I 
 
 <div align="justify">
 
-</br></br></br></br></br></br>
-
 ### A little more about me!
 
 I enjoy challenges that push me to grow and sharpen my skills in cybersecurity!  
