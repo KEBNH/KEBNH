@@ -77,7 +77,7 @@ Outside of cybersecurity, I love video games—especially shooters—and 🐶 I 
 
 ---
 
-<img src="assets/fox.gif" width=300 align="left">
+<img src="assets/milo.jpg" width=300 align="right">
 
 <div align="justify">
 
