@@ -111,7 +111,7 @@ And outside of technology, I’m a huge fan of video games(especially shooters) 
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing-eosin-three.vercel.app/api/spotify)](https://open.spotify.com/user/31yf54imza2odew4u7qqjtmn3z5u)
-[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/https://open.spotify.com/intl-es/track/7j7J2M3ZsKOsrhBueDjhqF?si=44dbfd80a6674b6f)
+[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF?si=44dbfd80a6674b6f)
 
 </br></br></br>
 
