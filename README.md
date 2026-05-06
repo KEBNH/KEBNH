@@ -11,20 +11,135 @@ Please leave a star on my README, it will make my day :)
 -->
 
 <!--- Banner -->
+<p align="center">
+  <img src="assets/fly.gif" width="700px" height="450px" alt="fly" />
+</p>
+
+</br> 
+<img src="assets/rose.gif" width=320 align="left">
+
+<div align="justify">
+
+</br>
+
+<!--- About me -->
+</br></br></br></br></br></br>
+
+### $ whoami
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=1E3A8Abackground=F29FFF00&width=500&height=30&lines=Hello+visitor!+I'm+Kevin+Moreyra+%F0%9F%91%BD;Cybersecurity+Engineering+student;I+love+solving+forensic+mysteries+%F0%9F%94%90;I+love+Chihuahuas+%F0%9F%90%B6)](https://git.io/typing-svg)
+
+I am a `Cybersecurity Engineering student` at UPC, deeply interested in `forensics`, the `purple team`, and `designing secure cloud architectures`.  
+I am passionate about investigating incidents, exploring exploits, and building solutions that strengthen security in modern environments. What sets me apart is my hands-on practice in platforms like `HackTheBox` and `CyberDefenders`, which allow me to sharpen both offensive and defensive skills simultaneously.  
+I work with tools such as `Python`, `Bash`, `PowerShell`, `Docker`, `Django`, `Git/GitHub`, `AWS`, `Oracle` and `VSCode`, applying them to projects that aim to be both secure and impactful.  
+I enjoy playing detective, solving forensic cases, and diving into `Blue Team` topics, including SIEMs like `Wazuh` and `Splunk`.  
+Outside of cybersecurity, I love video games—especially shooters—and 🐶 I love my dog Milo, my inseparable chihuahua companion.
+
+</div>
+</br>
+
+--- 
+<!--- My stacks -->
+<div align="center">
+
+## Tech Stack 🔮
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/bash-1E3A8A?style=for-the-badge&logo=bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-1E3A8A?style=for-the-badge&logo=markdown&logoColor=white" />
+
+### Technologies
+
+<img src="https://img.shields.io/badge/linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/django-1E3A8A?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/git-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### Tools
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white" />
+<img src="https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=awsb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat-square&logo=KaliLinux&logoColor=ffffff)
+![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat-square&logo=Powershell)
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=HackTheBox)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=flat-square&logo=TryHackMe)
+![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-000000?style=flat-square&logo=CyberDefenders)
+![Discord](https://img.shields.io/badge/-Discord-5391FE?style=flat-square&logo=discord&logoColor=ffffff)
+
+</div>
+
+---
+
+<img src="assets/fox.gif" width=300 align="left">
+
+<div align="justify">
+
+</br></br></br></br></br></br>
+
+### A little more about me!
+
+I enjoy challenges that push me to grow and sharpen my skills in cybersecurity!  
+I like helping others in the tech field, sharing knowledge and collaborating to solve problems.  
+I believe the best way to learn is by teaching, so I often document my experiences in labs like HackTheBox or CyberDefenders to inspire and guide others.  
+I love playing detective, diving into forensic cases and exploring exploits— it makes learning fun and exciting.  
+And outside of technology, I’m a huge fan of video games(especially shooters) and I absolutely i´m the biggest RAYE fan ever!
+
+**Contact me**
+
+<a href="https://www.discord.com/775751779144433674">
+    <img src="https://img.shields.io/badge/discord-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</br>
+
+**Stadistics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KEBNH&locale=en&mode=daily&theme=Dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KEBNH&theme=Dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<div align="center">
+
+<p align="left">
+  <img src="assets/cinema.jpg" width="200px" height="100px" alt="cinema" />
+</p>
+
+</div>
+
+<p align="right">
+  <img src="assets/tictac.jpg" width="200px" height="100px" alt="cinema" />
+</p>
+
+</div>
+
+
 <p align="left"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
-# Hi there, I'm Kev - aka BOTk👋 
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-## I'm a Cybersecurity Engineering Student
 
-- 📖 Student at the Peruvian University of Applied Sciences (UPC).
-- 🔐 Focused on **Cybersecurity (Forensics & Purple Team)**
-- ☁️ Interested in **Cloud Computing and Secure Architecture Design**
-- 💪🏼 Future Goals: Learn more technologies and tools — never stop creating new ideas.
-- ⚡ Fun fact: I like tech + gaming + building projects
 
 ---
 
@@ -38,65 +153,13 @@ Please leave a star on my README, it will make my day :)
 
 
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
+</p>
 
+</br> 
 
-
-
-
-
-
-
-
-
-
-
-### Tech Stack 🔮
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-</div>
-
-
-
-![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat-square&logo=KaliLinux&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=HackTheBox)
-![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-000000?style=flat-square&logo=CyberDefenders)
-![Discord](https://img.shields.io/badge/-Discord-5391FE?style=flat-square&logo=discord&logoColor=ffffff)
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KEBNH&locale=en&mode=daily&theme=Dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KEBNH&theme=Dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-<!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  Obrigada por visitar meu perfil! 💜
+</p>
 
