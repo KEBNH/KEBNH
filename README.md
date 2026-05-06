@@ -105,8 +105,31 @@ And outside of technology, I’m a huge fan of video games(especially shooters) 
 </div>
 
 ---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-eosin-three.vercel.app/api/spotify)](https://open.spotify.com/user/31yf54imza2odew4u7qqjtmn3z5u)
+[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/https://open.spotify.com/intl-es/track/7j7J2M3ZsKOsrhBueDjhqF?si=44dbfd80a6674b6f)
+
+</br></br></br>
+
+---
+
+</div>
 
 </br>
+<p align="center">
+  <img src="assets/fox.gif" width="250px" alt="GIF gandalf" />
+</p>
+
+
+<p align="center">
+  Thank you for visiting my profile! 💚
+</p>
+
+---
 
 <!-- Pacman -->
 <picture>
@@ -115,49 +138,4 @@ And outside of technology, I’m a huge fan of video games(especially shooters) 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KEBNH/KEBNH/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-<div align="center">
-
-<p align="left">
-  <img src="assets/cinema.jpg" width="200px" height="100px" alt="cinema" />
-</p>
-
-</div>
-
-<p align="right">
-  <img src="assets/tictac.jpg" width="200px" height="100px" alt="cinema" />
-</p>
-
-</div>
-
-
-<p align="left"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-
-
-
-
-
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-now-playing-eosin-three.vercel.app/api/spotify)](https://open.spotify.com/user/31yf54imza2odew4u7qqjtmn3z5u)
-
-[![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/ID_DE_TU_CANCION)
-
-
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5YWZwZDBneTZ1eXU2b2xsNm92c3l3bzFoeXliYW05YWpxdTJqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzGoMXkpe9bvyk8/giphy.gif" width="250px" alt="GIF gandalf" />
-</p>
-
-</br> 
-
-<p align="center">
-  Obrigada por visitar meu perfil! 💜
-</p>
 
