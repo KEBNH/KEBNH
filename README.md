@@ -40,7 +40,7 @@ Outside of cybersecurity, I love video games—especially shooters—and 🐶 I 
 
 ## Tech Stack 🔮
 
-<div align="center">
+
 
 ### Languages
 
