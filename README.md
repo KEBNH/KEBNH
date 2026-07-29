@@ -44,34 +44,34 @@ Outside of cybersecurity, I love video games—especially shooters—and 🐶 I 
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/bash-1E3A8A?style=for-the-badge&logo=bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-1E3A8A?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />,
+<img src="https://img.shields.io/badge/bash-1E3A8A?style=for-the-badge&logo=bash&logoColor=white" />,
+<img src="https://img.shields.io/badge/Markdown-1E3A8A?style=for-the-badge&logo=markdown&logoColor=white" />,
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/django-1E3A8A?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/git-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/mongodb-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-1E3A8A?style=for-the-badge&logo=linux&logoColor=white" />,
+<img src="https://img.shields.io/badge/docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white" />,
+<img src="https://img.shields.io/badge/django-1E3A8A?style=for-the-badge&logo=django&logoColor=white" />,
+<img src="https://img.shields.io/badge/git-1E3A8A?style=for-the-badge&logo=git&logoColor=white" />,
+<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />,
+<img src="https://img.shields.io/badge/mongodb-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=white" />,
 
 ### Tools
 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white" />
-<img src="https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=awsb&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />,
+<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white" />,
+<img src="https://img.shields.io/badge/canva-000000?style=for-the-badge&logo=canva&logoColor=white" />,
+<img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=awsb&logoColor=white" />,
+<img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=white" />,
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />,
 
-![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat-square&logo=KaliLinux&logoColor=ffffff)
-![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat-square&logo=Powershell)
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=HackTheBox)
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=flat-square&logo=TryHackMe)
-![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-000000?style=flat-square&logo=CyberDefenders)
-![Discord](https://img.shields.io/badge/-Discord-5391FE?style=flat-square&logo=discord&logoColor=ffffff)
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000000?style=flat-square&logo=KaliLinux&logoColor=ffffff),
+![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat-square&logo=Powershell),
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat-square&logo=HackTheBox),
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=flat-square&logo=TryHackMe),
+![CyberDefenders](https://img.shields.io/badge/-CyberDefenders-000000?style=flat-square&logo=CyberDefenders),
+![Discord](https://img.shields.io/badge/-Discord-5391FE?style=flat-square&logo=discord&logoColor=ffffff),
 
 </div>
 
