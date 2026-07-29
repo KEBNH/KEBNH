@@ -96,21 +96,12 @@ And outside of technology, I’m a huge fan of video games(especially shooters) 
   </a>
 
 </br>
-
-**Stadistics**
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KEBNH&locale=en&mode=daily&theme=Dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KEBNH&theme=Dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-eosin-three.vercel.app/api/spotify)](https://open.spotify.com/user/31yf54imza2odew4u7qqjtmn3z5u)
 [![Spotify](https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF?si=44dbfd80a6674b6f)
 
 </br></br></br>
